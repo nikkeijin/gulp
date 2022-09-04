@@ -1,6 +1,6 @@
 # Must have node, npm, and npx to use gulp.
 
-To install Node with NPM you must install Homebrew:
+To install Node with NPM via command line you must install Homebrew:
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
